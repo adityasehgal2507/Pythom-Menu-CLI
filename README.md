@@ -84,17 +84,3 @@ menu.run(loop=False)
 - Easily extensible
 
 ---
-
-## 📁 Project Structure
-
-```
-menu.py
-README.md
-LICENSE
-```
-
----
-
-## 📄 License
-
-MIT License
